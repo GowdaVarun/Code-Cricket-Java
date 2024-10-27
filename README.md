@@ -11,9 +11,8 @@ This repository contains a Java-based interactive game where players compete aga
 
 ## Project Structure
 
-- **label.java**: The main game logic and gameplay functions.
+- **cricket.java**: The main game logic and gameplay functions.
 - **README.md**: Instructions and game description.
-- **LICENSE**: Optional file for specifying license.
 
 ## Getting Started
 
