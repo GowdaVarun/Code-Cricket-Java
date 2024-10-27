@@ -18,15 +18,15 @@ This repository contains a Java-based interactive game where players compete aga
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/java-even-odd-cricket-game.git
+   git clone https://github.com/GowdaVarun/Code-Cricket-Java.git
    ```
 2. Compile the code:
    ```bash
-   javac label.java
+   javac cricket.java
    ```
 3. Run the game:
    ```bash
-   java label
+   java cricket
    ```
 
 ## Contributions
