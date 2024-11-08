@@ -1,16 +1,37 @@
+# IDE settings and configuration
+.idea/
 *.iml
-.gradle
-/local.properties
+*.iml
 /.idea/caches
 /.idea/libraries
 /.idea/modules.xml
 /.idea/workspace.xml
 /.idea/navEditor.xml
 /.idea/assetWizardSettings.xml
+
+# macOS system files
 .DS_Store
-/build
-/captures
-.externalNativeBuild
+
+# Build outputs
+out/
+target/
+build/
+captures/
+externalNativeBuild/
 .cxx
+
+# Gradle and local properties
+.gradle/
 local.properties
-/out
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Dependency folders
+node_modules/
+
+# System files
+Thumbs.db
